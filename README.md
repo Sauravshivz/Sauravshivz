@@ -1,8 +1,7 @@
 ## Hi 👋 I'm Saurav  
 
-### Backend Developer | Java | Spring Boot  
+### Backend Developer | Node.js | Express  
 
-- 💻 Learning backend development seriously  
-- 🚀 Building real-world projects  
+- 💻 Learning backend development with Node.js  
+- 🚀 Building real-world backend projects  
 - 📚 Focused on placement-level skills  
-
