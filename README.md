@@ -1,25 +1,46 @@
-## Hi 👋 I'm Saurav  
+# Hi 👋, I'm Saurav Kumar
 
-### Backend Developer | Node.js | Express  
+### Backend Developer | Node.js | Express.js
 
----
-
-### 🛠 Tech Stack
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I am a backend-focused developer passionate about building **scalable, secure, and real-world applications**.  
+Currently working on REST APIs, authentication systems, and database-driven backend services.
 
 ---
 
-### 🎯 Focus
-- Building real-world backend projects  
-- REST APIs & authentication  
-- Placement-oriented preparation  
+## 🛠 Tech Stack
+
+### Backend
+- **Node.js**
+- **Express.js**
+
+### Database
+- **MongoDB**
+
+### Tools & Platforms
+- **Git**
+- **GitHub**
+- **Postman**
+
+---
+
+## 🚀 What I Do
+- Build RESTful APIs
+- Implement Authentication & Authorization (JWT)
+- Design MongoDB schemas
+- Write clean & maintainable backend code
+
+---
+
+## 📌 Currently Focusing On
+- Advanced Express.js patterns
+- Backend system design basics
+- Real-world backend projects
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/Sauravshivz](https://github.com/Sauravshivz)
+
+---
+
+⭐ *Always learning and improving backend engineering skills.*
